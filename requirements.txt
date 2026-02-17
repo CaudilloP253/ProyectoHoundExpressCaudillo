@@ -1,0 +1,6 @@
+Django
+celery
+psycopg2-binary
+redis
+django-debug-toolbar
+whitenoise
